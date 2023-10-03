@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # yves.quadros
 
 - [Instagram](https://www.instagram.com/yves.quadros/)
