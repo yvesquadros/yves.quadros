@@ -1,8 +1,9 @@
 ---
 layout: default
+title: Yves Quadros
 ---
 
-# yves.quadros
+# Links
 
 - [Instagram](https://www.instagram.com/yves.quadros/)
 - [TikTok](https://www.tiktok.com/@yves.quadros)
@@ -11,3 +12,5 @@ layout: default
 - [Threads](https://www.threads.net/@yves.quadros)
 - [Pinterest](https://br.pinterest.com/yvesquadros/)
 - [Twitter](https://twitter.com/yvesquadros)
+
+<div style="background-color: #EEEEEE;">Comidas revolucionárias</div>
