@@ -13,4 +13,6 @@ title: Yves Quadros
 - [Pinterest](https://br.pinterest.com/yvesquadros/)
 - [Twitter](https://twitter.com/yvesquadros)
 
-<div style="background-color: #EEEEEE;">Comidas revolucionárias</div>
+<div style="background-color: #EEEEEE;">
+  <a class="button" href="#">Comidas revolucionárias</a> 
+</div>
